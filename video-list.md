@@ -1,7 +1,11 @@
 # 日本語 Work Shops
 
 ## H2O.aiと製品紹介
-
+|                          | 内容                                                                                                                                                                                         | 動画                                               | 資料 | 
+| ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- | ---- | 
+| H2O AI 活用の第一歩      | - H2O AIの紹介<br>- そのミッション、製品コンセプトそしてAI課題へのアプローチ<br>- 代表的な活用イメージ・ユースケース<br>- 製品ラインナップの概要<br>- 学習カリキュラム・ワークショップの紹介 |                                                    |      | 
+| H2O AI Cloud 紹介        |                                                                                                                                                                                              | https://www.youtube.com/watch?v=gmQ_Sjeva_A&t=12s  |      | 
+| Driverless AI 操作の流れ |                                                                                                                                                                                              | https://www.youtube.com/watch?v=08joAmTSlWk&t=556s |      | 
 
 ## Driverless AI
 |                                                             | 内容                                                                                                       | 動画                                                | 資料                                                                                                      | 
@@ -16,4 +20,9 @@
 |                                                             |                                                                                                            |                                                     |                                                                                                           | 
 
 ## Wave
-
+|                                                             | 内容                     | 動画                                               | 資料                                            | 
+| ----------------------------------------------------------- | ------------------------ | -------------------------------------------------- | ----------------------------------------------- | 
+| チュートリアル                                              | - H2O Waveチュートリアル | https://www.youtube.com/watch?v=cuz67LkGeLc&t=685s | https://github.com/yukismd/H2O_Wave_Tutorial    | 
+| Driverless AIとWaveで作る画像スコアリングAIアプリケーション |                          | https://www.youtube.com/watch?v=cY7YpWk5wkg        | https://github.com/yukismd/H2O_Wave_GradCam_app | 
+| Driverless AIモデルの逆問題解析                             |                          | https://www.youtube.com/watch?v=DKQlY_7tQ5w&t=44s  |                                                 | 
+| Waveアプリから実施するデータベース操作                      |                          | https://www.youtube.com/watch?v=5bY7S52l434&t=433s |                                                 | 
