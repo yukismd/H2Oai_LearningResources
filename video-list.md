@@ -25,4 +25,4 @@
 | チュートリアル                                              | - H2O Waveチュートリアル | https://www.youtube.com/watch?v=cuz67LkGeLc&t=685s | https://github.com/yukismd/H2O_Wave_Tutorial    | 
 | Driverless AIとWaveで作る画像スコアリングAIアプリケーション |                          | https://www.youtube.com/watch?v=cY7YpWk5wkg        | https://github.com/yukismd/H2O_Wave_GradCam_app | 
 | Driverless AIモデルの逆問題解析                             |                          | https://www.youtube.com/watch?v=DKQlY_7tQ5w&t=44s  |                                                 | 
-| Waveアプリから実施するデータベース操作                      |                          | https://www.youtube.com/watch?v=5bY7S52l434&t=433s |                                                 | 
+| Waveアプリから実施するデータベース操作                      | - データベース（Amazon RDS - MySQL）に対するCRADをアプリから実施                         | https://www.youtube.com/watch?v=5bY7S52l434&t=433s |                                                 | 
