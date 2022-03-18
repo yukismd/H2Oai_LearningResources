@@ -14,9 +14,9 @@
  - Driverless AI入門、基本的な使い方。回帰・分類モデルの作成 
 #### 時系列予測（[動画](https://www.youtube.com/watch?v=OBfVdBSmsSo&t=6s)）（[資料](https://h2oai-jp-public.s3.ap-northeast-1.amazonaws.com/docs/Workshop+(DAI+-+Time+Series)+v220207.pdf)）
  - 時系列予測の実施方法
-#### 画像データを用いたモデル作成（[動画]()）（[資料]()）
+#### 画像データを用いたモデル作成（[資料]()）
  - 画像データを利用した、回帰・分類問題
-#### テキストデータを用いたモデル作成（[動画]()）（[資料]()）
+#### テキストデータを用いたモデル作成（[資料]()）
  - テキスト(日本語)データを利用した、回帰・分類問題 
 #### モデル予測精度の確認（[動画](https://www.youtube.com/watch?v=IF5d-PFSlIU&t=3s)）（[資料](https://h2oai-jp-public.s3.ap-northeast-1.amazonaws.com/docs/Workshop+(DAI+-+MLI)+v220104.pdf)）
  - 作成した予測モデルの精度を評価する方法。回帰・分類問題における各種指標
@@ -24,7 +24,9 @@
  - 作成した予測モデルの解釈方法
 #### MLI – Disparate Impact & Sensitivity Analysis（[動画](https://www.youtube.com/watch?v=YtSSCEoTh_s&t=1254s)）（[資料]()）
  - 予測モデルのバイアス（公平性）確認。MLIのDisparate Impact AnalysisとSensitivity Analysis機能に関して
-    
+#### モデルのデプロイ（[資料](https://h2oai-jp-public.s3.ap-northeast-1.amazonaws.com/docs/Workshop+(DAI+-+Deploy)+20220215.pdf)）
+ - モデルデプロイ（モデルの実装）の方法に関して
+  
 ## Wave
 #### チュートリアル（[動画](https://www.youtube.com/watch?v=cuz67LkGeLc&t=685s)）（[資料](https://github.com/yukismd/H2O_Wave_Tutorial)）
  - Waveチュートリアル。基本事項の解説。学習方法等
@@ -33,13 +35,13 @@
 #### Driverless AIとWaveで作る画像スコアリングAIアプリケーション（[動画](https://www.youtube.com/watch?v=cY7YpWk5wkg)）（[資料](https://github.com/yukismd/H2O_Wave_GradCam_app)）
  - Driverless AIによるGrad-CAM。Driverless AIでモデル作成後、独立したモデルオブジェクト(Python Scoring Pipeline)をダウンロードし、Waveと連携させたGrad-CAMアプリをサーバに構築する方法の解説
 #### Driverless AIモデルの逆問題解析（[動画](https://www.youtube.com/watch?v=DKQlY_7tQ5w&t=44s)）（[資料]()）
- - XXXXX
+ -  「Driverless AIで作成したモデルのターゲット変数を最大(or最小)とする入力変数の値は？」といった問題を解く。材料開発や生産技術の分野で重要な領域
 #### Waveアプリから実施するデータベース操作（[動画](https://www.youtube.com/watch?v=5bY7S52l434&t=433s)）（[資料]()）
  - データベース（Amazon RDS - MySQL）に対するCRADをアプリから実施
 #### 紹介 - 予知保全を題材にしたデモアプリ（[動画](https://www.youtube.com/watch?v=PQHKQY0LrA8)）
  - H2O AI Cloud上にサンプルとして実装されているデモアプリの紹介
   
 ## その他Technical Tips
-#### What's New in Driverless AI 1.10（Driverless AI最新版 新機能紹介）（[動画](https://www.youtube.com/watch?v=O7hXrHWoV_Q&t=2327s)）（[資料]()）
+#### What's New in Driverless AI 1.10（Driverless AI最新版 新機能紹介）（[動画](https://www.youtube.com/watch?v=O7hXrHWoV_Q&t=2327s)）（[資料](https://h2oai-jp-public.s3.ap-northeast-1.amazonaws.com/docs/Seminar+(DAI+-+New+in+1.10)+v211206.pdf)）
  - 2021秋にバージョンアップされたDriverless AI 1.10の新機能紹介。機械学習の解釈可能性/Machine Learning Interpretabilityの機能拡張。教師なし学習のサポート。多クラス分類問題における不均衡データへの対応力アップ
   
