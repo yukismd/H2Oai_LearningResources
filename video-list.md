@@ -18,7 +18,7 @@
  - 画像データを利用した、回帰・分類問題
 #### テキストデータを用いたモデル作成（[資料](https://h2oai-jp-public.s3.ap-northeast-1.amazonaws.com/docs/Workshop+(DAI+-+NLP)+v220317.pdf)）
  - テキスト(日本語)データを利用した、回帰・分類問題 
-#### モデル予測精度の確認（[動画](https://www.youtube.com/watch?v=IF5d-PFSlIU&t=3s)）（[資料](https://h2oai-jp-public.s3.ap-northeast-1.amazonaws.com/docs/Workshop+(DAI+-+MLI)+v220104.pdf)）
+#### モデル予測精度の確認（[動画](https://www.youtube.com/watch?v=IF5d-PFSlIU&t=3s)）（[資料](https://h2oai-jp-public.s3.ap-northeast-1.amazonaws.com/docs/Workshop+(DAI+-+ModelDiagnostic)+v211130.pdf)）
  - 作成した予測モデルの精度を評価する方法。回帰・分類問題における各種指標
 #### 機械学習の解釈可能性/Machine Learning Interpretability(MLI)（[動画](https://www.youtube.com/watch?v=s6D3mA8AdX0&t=1s)）（[資料](https://h2oai-jp-public.s3.ap-northeast-1.amazonaws.com/docs/Workshop+(DAI+-+MLI)+v220104.pdf)）
  - 作成した予測モデルの解釈方法
