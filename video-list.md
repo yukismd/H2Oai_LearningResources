@@ -34,9 +34,9 @@
 ## Waveによるアプリケーション
 #### Driverless AIとWaveで作る画像スコアリングAIアプリケーション（[動画](https://www.youtube.com/watch?v=cY7YpWk5wkg)）（[資料](https://github.com/yukismd/H2O_Wave_GradCam_app)）
  - Driverless AIによるGrad-CAM。Driverless AIでモデル作成後、独立したモデルオブジェクト(Python Scoring Pipeline)をダウンロードし、Waveと連携させたGrad-CAMアプリをサーバに構築する方法の解説
-#### Driverless AIモデルの逆問題解析（[動画](https://www.youtube.com/watch?v=DKQlY_7tQ5w&t=44s)）（[資料]()）
+#### Driverless AIモデルの逆問題解析（[動画](https://www.youtube.com/watch?v=DKQlY_7tQ5w&t=44s)）（[資料](https://h2oai-jp-public.s3.ap-northeast-1.amazonaws.com/docs/Inverse+Estimation+App+20210901.pdf)）
  -  「Driverless AIで作成したモデルのターゲット変数を最大(or最小)とする入力変数の値は？」といった問題を解く。材料開発や生産技術の分野で重要な領域
-#### Waveアプリから実施するデータベース操作（[動画](https://www.youtube.com/watch?v=5bY7S52l434&t=433s)）（[資料]()）
+#### Waveアプリから実施するデータベース操作（[動画](https://www.youtube.com/watch?v=5bY7S52l434&t=433s)）
  - データベース（Amazon RDS - MySQL）に対するCRADをアプリから実施
 #### 紹介 - 予知保全を題材にしたデモアプリ（[動画](https://www.youtube.com/watch?v=PQHKQY0LrA8)）
  - H2O AI Cloud上にサンプルとして実装されているデモアプリの紹介
