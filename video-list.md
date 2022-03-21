@@ -9,7 +9,7 @@
 #### Driverless AI 操作の流れ（[動画](https://www.youtube.com/watch?v=08joAmTSlWk&t=556s)）
  - Driverless AIによるモデル作成の一連の操作の流れを説明
   
-## Driverless AI
+## Driverless AI トレーニング
 #### 入門（[動画](https://www.youtube.com/watch?v=AbRets70C24&t=6s)）（[資料](https://h2oai-jp-public.s3.ap-northeast-1.amazonaws.com/docs/Workshop+(DAI+-+Getting+Started)+v220123.pdf)）
  - Driverless AI入門、基本的な使い方。回帰・分類モデルの作成 
 #### 時系列予測（[動画](https://www.youtube.com/watch?v=OBfVdBSmsSo&t=6s)）（[資料](https://h2oai-jp-public.s3.ap-northeast-1.amazonaws.com/docs/Workshop+(DAI+-+Time+Series)+v220207.pdf)）
