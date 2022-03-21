@@ -27,11 +27,11 @@
 #### モデルのデプロイ（[資料](https://h2oai-jp-public.s3.ap-northeast-1.amazonaws.com/docs/Workshop+(DAI+-+Deploy)+20220215.pdf)）
  - モデルデプロイ（モデルの実装）の方法に関して
   
-## Wave
+## Wave トレーニング
 #### チュートリアル（[動画](https://www.youtube.com/watch?v=cuz67LkGeLc&t=685s)）（[資料](https://github.com/yukismd/H2O_Wave_Tutorial)）
  - Waveチュートリアル。基本事項の解説。学習方法等
   
-## Waveによるアプリケーション
+## Waveによるアプリケーション作成例
 #### Driverless AIとWaveで作る画像スコアリングAIアプリケーション（[動画](https://www.youtube.com/watch?v=cY7YpWk5wkg)）（[資料](https://github.com/yukismd/H2O_Wave_GradCam_app)）
  - Driverless AIによるGrad-CAM。Driverless AIでモデル作成後、独立したモデルオブジェクト(Python Scoring Pipeline)をダウンロードし、Waveと連携させたGrad-CAMアプリをサーバに構築する方法の解説
 #### Driverless AIモデルの逆問題解析（[動画](https://www.youtube.com/watch?v=DKQlY_7tQ5w&t=44s)）（[資料](https://h2oai-jp-public.s3.ap-northeast-1.amazonaws.com/docs/Inverse+Estimation+App+20210901.pdf)）
