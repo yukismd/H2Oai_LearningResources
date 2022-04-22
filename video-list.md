@@ -9,6 +9,9 @@
 #### Driverless AI 操作の流れ（[動画](https://www.youtube.com/watch?v=08joAmTSlWk&t=556s)）
  - Driverless AIによるモデル作成の一連の操作の流れを説明
   
+## H2O AI Cloud
+#### H2O AI Cloud 入門（[動画](https://studio.youtube.com/video/F2JmRKDyXdk/edit)）（[資料](https://h2oai-jpn-public.s3.amazonaws.com/docs/Seminar+(AI+Cloud)+v220421.pdf)）
+  
 ## Driverless AI トレーニング
 #### 入門（[動画](https://www.youtube.com/watch?v=AbRets70C24&t=6s)）（[資料](https://h2oai-jpn-public.s3.amazonaws.com/docs/Workshop+(DAI+-+Getting+Started)+v220408.pdf)）
  - Driverless AI入門、基本的な使い方。回帰・分類モデルの作成 
