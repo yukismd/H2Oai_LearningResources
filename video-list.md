@@ -12,6 +12,8 @@
 ## H2O AI Cloud
 #### H2O AI Cloud 入門（[動画](https://studio.youtube.com/video/F2JmRKDyXdk/edit)）（[資料](https://h2oai-jpn-public.s3.amazonaws.com/docs/Seminar+(AI+Cloud)+v220421.pdf)）
  - H2O AI Cloudによる、予測モデルの作成、モデルのデプロイ（MLOps）、AIアプリケーションの利用方法を紹介
+#### 紹介 - 予知保全を題材にしたデモアプリ（[動画](https://www.youtube.com/watch?v=PQHKQY0LrA8)）
+ - H2O AI Cloud上にサンプルとして実装されているデモアプリの紹介
   
 ## Driverless AI トレーニング
 #### 入門（[動画](https://www.youtube.com/watch?v=AbRets70C24&t=6s)）（[資料](https://h2oai-jpn-public.s3.amazonaws.com/docs/Workshop+(DAI+-+Getting+Started)+v220408.pdf)）
@@ -42,8 +44,6 @@
  -  「Driverless AIで作成したモデルのターゲット変数を最大(or最小)とする入力変数の値は？」といった問題を解く。材料開発や生産技術の分野で重要な領域
 #### Waveアプリから実施するデータベース操作（[動画](https://www.youtube.com/watch?v=5bY7S52l434&t=433s)）
  - データベース（Amazon RDS - MySQL）に対するCRADをアプリから実施
-#### 紹介 - 予知保全を題材にしたデモアプリ（[動画](https://www.youtube.com/watch?v=PQHKQY0LrA8)）
- - H2O AI Cloud上にサンプルとして実装されているデモアプリの紹介
   
 ## その他Technical Tips
 #### What's New in Driverless AI 1.10（Driverless AI最新版 新機能紹介）（[動画](https://www.youtube.com/watch?v=O7hXrHWoV_Q&t=2327s)）（[資料](https://h2oai-jpn-public.s3.amazonaws.com/docs/Seminar+(DAI+-+New+in+1.10)+v211206.pdf)）
