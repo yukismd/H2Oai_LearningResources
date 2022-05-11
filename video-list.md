@@ -16,7 +16,7 @@
  - H2O AI Cloud上にサンプルとして実装されているデモアプリの紹介
   
 ## Driverless AI トレーニング
-#### 入門（[動画](https://www.youtube.com/watch?v=AbRets70C24&t=6s)）（[資料](https://h2oai-jpn-public.s3.amazonaws.com/docs/Workshop+(DAI+-+Getting+Started)+v220408.pdf)）
+#### 入門（[動画](https://www.youtube.com/watch?v=AbRets70C24&t=6s)）（[資料](https://h2oai-jpn-public.s3.amazonaws.com/docs/Workshop+(DAI+-+Getting+Started)+v220421.pdf)）
  - Driverless AI入門、基本的な使い方。回帰・分類モデルの作成 
 #### 時系列予測（[動画](https://www.youtube.com/watch?v=OBfVdBSmsSo&t=6s)）（[資料](https://h2oai-jp-public.s3.ap-northeast-1.amazonaws.com/docs/Workshop+(DAI+-+Time+Series)+v220207.pdf)）
  - 時系列予測の実施方法
