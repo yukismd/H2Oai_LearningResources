@@ -33,6 +33,12 @@
 #### モデルのデプロイ（[資料](https://h2oai-jp-public.s3.ap-northeast-1.amazonaws.com/docs/Workshop+(DAI+-+Deploy)+20220215.pdf)）
  - モデルデプロイ（モデルの実装）の方法に関して
   
+## Driverless AI Technical Tips
+#### What's New in Driverless AI 1.10（Driverless AI最新版 新機能紹介）（[動画](https://www.youtube.com/watch?v=O7hXrHWoV_Q&t=2327s)）（[資料](https://h2oai-jpn-public.s3.amazonaws.com/docs/Seminar+(DAI+-+New+in+1.10)+v211206.pdf)）
+ - 2021秋にバージョンアップされたDriverless AI 1.10の新機能紹介。機械学習の解釈可能性/Machine Learning Interpretabilityの機能拡張。教師なし学習のサポート。多クラス分類問題における不均衡データへの対応力アップ
+#### 予測精度評価と不均衡データへの対応（[動画](https://www.youtube.com/watch?v=FDvmZjg0elc&t=78s)）（[資料](https://h2oai-jpn-public.s3.amazonaws.com/docs/Seminar+(Scorer+and+Imbalanced+data)+v220512.pdf)）
+ - 各種Scorer（モデル予測精度評価指標）の特徴とモデル評価の手法に関して。不均衡なデータを扱う場合の注意点とDriverless AIによる対応に関して
+  
 ## Wave トレーニング
 #### チュートリアル（[動画](https://www.youtube.com/watch?v=cuz67LkGeLc&t=685s)）（[資料](https://github.com/yukismd/H2O_Wave_Tutorial)）
  - Waveチュートリアル。基本事項の解説。学習方法等
@@ -45,7 +51,4 @@
 #### Waveアプリから実施するデータベース操作（[動画](https://www.youtube.com/watch?v=5bY7S52l434&t=433s)）
  - データベース（Amazon RDS - MySQL）に対するCRADをアプリから実施
   
-## その他Technical Tips
-#### What's New in Driverless AI 1.10（Driverless AI最新版 新機能紹介）（[動画](https://www.youtube.com/watch?v=O7hXrHWoV_Q&t=2327s)）（[資料](https://h2oai-jpn-public.s3.amazonaws.com/docs/Seminar+(DAI+-+New+in+1.10)+v211206.pdf)）
- - 2021秋にバージョンアップされたDriverless AI 1.10の新機能紹介。機械学習の解釈可能性/Machine Learning Interpretabilityの機能拡張。教師なし学習のサポート。多クラス分類問題における不均衡データへの対応力アップ
   
