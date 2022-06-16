@@ -4,7 +4,7 @@
 ## H2O.aiと製品紹介
 #### H2O AI 活用の第一歩（[動画](https://youtu.be/QjHdwiNxhUQ)）（[資料](https://h2oai-jpn-public.s3.amazonaws.com/docs/H2O_AI_%E6%B4%BB%E7%94%A8%E3%81%AE%E7%AC%AC%E4%B8%80%E6%AD%A9_20220318.pdf)）
  - H2O AIの紹介。そのミッション、製品コンセプトとAI課題へのアプローチ。代表的な活用イメージ・ユースケース。製品ラインナップの概要。学習カリキュラム・ワークショップの紹介
-#### H2O AI Cloud 紹介（[動画](https://www.youtube.com/watch?v=gmQ_Sjeva_A&t=12s)）
+#### H2O AI Cloud 紹介（Short Version）（[動画](https://www.youtube.com/watch?v=gmQ_Sjeva_A&t=12s)）
  - H2O AI Cloudの構成要素。AIアプリの利用と紹介。Driverless AIインスタンスの管理。MLOpsによるモデルのデプロイ（スコアリングAPIポイントの構築）。APIポイントへのサンプルリクエストの実施
 #### Driverless AI 操作の流れ（[動画](https://www.youtube.com/watch?v=08joAmTSlWk&t=556s)）
  - Driverless AIによるモデル作成の一連の操作の流れを説明
