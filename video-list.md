@@ -20,9 +20,9 @@
  - Driverless AI入門、基本的な使い方。回帰・分類モデルの作成 
 #### 時系列予測（[動画](https://www.youtube.com/watch?v=OBfVdBSmsSo&t=6s)）（[資料](https://h2oai-jp-public.s3.ap-northeast-1.amazonaws.com/docs/Workshop+(DAI+-+Time+Series)+v220207.pdf)）
  - 時系列予測の実施方法
-#### 画像データを用いたモデル作成（[資料](https://h2oai-jp-public.s3.ap-northeast-1.amazonaws.com/docs/Workshop+(DAI+-+Image)+v220317.pdf)）
+#### 画像データを用いたモデル作成（[資料](https://h2oai-jpn-public.s3.amazonaws.com/docs/Workshop+(DAI+-+Image)+v220403.pdf)）
  - 画像データを利用した、回帰・分類問題
-#### テキストデータを用いたモデル作成（[資料](https://h2oai-jpn-public.s3.amazonaws.com/docs/Workshop+(DAI+-+Image)+v220403.pdf)）
+#### テキストデータを用いたモデル作成（[資料](https://h2oai-jpn-public.s3.amazonaws.com/docs/Workshop+(DAI+-+NLP)+v220317.pdf)）
  - テキスト(日本語)データを利用した、回帰・分類問題 
 #### モデル予測精度の確認（[動画](https://www.youtube.com/watch?v=IF5d-PFSlIU&t=3s)）（[資料](https://h2oai-jp-public.s3.ap-northeast-1.amazonaws.com/docs/Workshop+(DAI+-+ModelDiagnostic)+v211130.pdf)）
  - 作成した予測モデルの精度を評価する方法。回帰・分類問題における各種指標
