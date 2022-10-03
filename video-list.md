@@ -50,5 +50,9 @@
  -  「Driverless AIで作成したモデルのターゲット変数を最大(or最小)とする入力変数の値は？」といった問題を解く。材料開発や生産技術の分野で重要な領域
 #### Waveアプリから実施するデータベース操作（[動画](https://www.youtube.com/watch?v=5bY7S52l434&t=433s)）
  - データベース（Amazon RDS - MySQL）に対するCRADをアプリから実施
-  
-  
+
+
+## H2O-3(OSS H2O) トレーニング
+#### チュートリアル（[動画](https://www.youtube.com/watch?v=ODmH0uhJRoQ）)（[資料](https://github.com/yukismd/H2O_3_Tutorial)）
+ - H2O-3チュートリアル。機能紹介と、使い方説明
+
