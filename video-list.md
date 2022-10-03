@@ -53,6 +53,6 @@
 
 
 ## H2O-3(OSS H2O) トレーニング
-#### チュートリアル（[動画](https://www.youtube.com/watch?v=ODmH0uhJRoQ）)（[資料](https://github.com/yukismd/H2O_3_Tutorial)）
+#### チュートリアル（[動画](https://www.youtube.com/watch?v=ODmH0uhJRoQ）))（[資料](https://github.com/yukismd/H2O_3_Tutorial)）
  - H2O-3チュートリアル。機能紹介と、使い方説明
 
