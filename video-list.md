@@ -30,7 +30,7 @@
  - 作成した予測モデルの解釈方法
 #### MLI – Disparate Impact & Sensitivity Analysis（[動画](https://www.youtube.com/watch?v=YtSSCEoTh_s&t=1254s)）（[資料](https://h2oai-jpn-public.s3.amazonaws.com/docs/Workshop+(DAI+-+MLI+DisparateImpact)+v211221.pdf)）
  - 予測モデルのバイアス（公平性）確認。MLIのDisparate Impact AnalysisとSensitivity Analysis機能に関して
-#### モデルのデプロイ（[資料](https://h2oai-jp-public.s3.ap-northeast-1.amazonaws.com/docs/Workshop+(DAI+-+Deploy)+20220215.pdf)）
+#### モデルのデプロイ（[資料](https://h2oai-jpn-public.s3.amazonaws.com/docs/Workshop+(DAI+-+Deploy)+v221203.pdf)）
  - モデルデプロイ（モデルの実装）の方法に関して
   
 ## Driverless AI Technical Tips
