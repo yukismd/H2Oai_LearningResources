@@ -15,6 +15,10 @@
 #### 紹介 - 予知保全を題材にしたデモアプリ（[動画](https://www.youtube.com/watch?v=PQHKQY0LrA8)）
  - H2O AI Cloud上にサンプルとして実装されているデモアプリの紹介
   
+## H2O AI Cloud トレーニング
+#### Getting Started（[資料](https://h2oai-jpn-public.s3.amazonaws.com/docs/Workshop+(AI+Cloud+-+Getting+Started)+v221214.pdf))
+#### App Tour（[資料](https://h2oai-jpn-public.s3.amazonaws.com/docs/Workshop+(AI+Cloud+-+AppTour)+v221214.pdf))
+  
 ## Driverless AI トレーニング
 #### 入門（[動画](https://www.youtube.com/watch?v=AbRets70C24&t=6s)）（[資料](https://h2oai-jpn-public.s3.amazonaws.com/docs/Workshop+(DAI+-+Getting+Started)+v220609.pdf)）
  - Driverless AI入門、基本的な使い方。回帰・分類モデルの作成 
