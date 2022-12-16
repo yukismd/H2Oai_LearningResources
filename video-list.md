@@ -12,6 +12,8 @@
 ## H2O AI Cloud
 #### H2O AI Cloud 紹介（[動画](https://www.youtube.com/watch?v=4glxugqSgIM&t=1783s)）（[資料](https://h2oai-jpn-public.s3.amazonaws.com/docs/Seminar+(AI+Cloud+2)+v221018.pdf))
  - H2O AI Cloudによる、予測モデルの作成、モデルのデプロイ（MLOps）、AIアプリケーションの利用方法を紹介
+#### H2O Hydrogen Torch - 画像・物体検出 編（[動画](https://www.youtube.com/watch?v=aOHuUtpKPdE)）（[資料](https://h2oai-jpn-public.s3.amazonaws.com/docs/Seminar+(Hydrogen+Torch+-+ObjectDetection)+v221204.pdf))
+ - Hydrogen Torch, Label Genieによる物体検出の実施と、画像のアノテーション
 #### 紹介 - 予知保全を題材にしたデモアプリ（[動画](https://www.youtube.com/watch?v=PQHKQY0LrA8)）
  - H2O AI Cloud上にサンプルとして実装されているデモアプリの紹介
   
