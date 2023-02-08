@@ -64,6 +64,6 @@
 
 
 ## その他
-#### Rulefitモデルに関して（[動画](https://www.youtube.com/watch?v=p4Y1JmwACck）)（[資料](https://h2oai-jpn-public.s3.amazonaws.com/docs/LT+(Rulefit)+v230207.pdf))
+#### Rulefitモデルに関して（[動画](https://www.youtube.com/watch?v=p4Y1JmwACck）))（[資料](https://h2oai-jpn-public.s3.amazonaws.com/docs/LT+(Rulefit)+v230207.pdf))
  - Rulefitモデルの解説と実施方法（OSS H2O, Driverless AI）
 
