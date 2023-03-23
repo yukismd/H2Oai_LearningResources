@@ -16,6 +16,8 @@
  - H2O AI Cloudによる、予測モデルの作成、モデルのデプロイ（MLOps）、AIアプリケーションの利用方法を紹介
 #### H2O Hydrogen Torch - 画像・物体検出 編（[動画](https://www.youtube.com/watch?v=aOHuUtpKPdE)）（[資料](https://h2oai-jpn-public.s3.amazonaws.com/docs/Seminar+(Hydrogen+Torch+-+ObjectDetection)+v221204.pdf))
  - Hydrogen Torch, Label Genieによる物体検出の実施と、画像のアノテーション
+#### H2O AI CloudによるAIアプリの運用（[動画](https://www.youtube.com/watch?v=axCgK3Pd7C0&t=2746s)）（[資料](https://h2oai-jpn-public.s3.amazonaws.com/docs/Seminar+(Object+Detection+Scoring+App)+v230316.pdf))
+ - 画像データに対する物体検知モデルの作成から、モデルのデプロイ、そしてWebアプリの作成
 #### 紹介 - 予知保全を題材にしたデモアプリ（[動画](https://www.youtube.com/watch?v=PQHKQY0LrA8)）
  - H2O AI Cloud上にサンプルとして実装されているデモアプリの紹介
   
