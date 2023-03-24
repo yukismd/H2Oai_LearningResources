@@ -3,7 +3,7 @@
   
 ## H2O.aiと製品紹介
 #### H2O.aiと最先端のAutoMLの紹介（[動画](https://www.youtube.com/watch?v=7v5spY-cPqs&t=56s)）（[資料](https://h2oai-jpn-public.s3.amazonaws.com/docs/Seminar+(H2O+and+DAI+Intro)+v230216.pdf)）
- - H2O.aiの概要と、主力製品であるAutoML（Driverless AI）の紹介。AUtoMLの用途や有効的な活用方法に関しての説明を、まだH2O.aiを詳しくご存知でない方向けに実施
+ - H2O.aiの概要と、主力製品であるAutoML（Driverless AI）の紹介。AutoMLの用途や有効的な活用方法に関しての説明を、まだH2O.aiを詳しくご存知でない方向けに実施
 #### H2O AI 活用の第一歩（[動画](https://youtu.be/QjHdwiNxhUQ)）（[資料](https://h2oai-jpn-public.s3.amazonaws.com/docs/H2O_AI_%E6%B4%BB%E7%94%A8%E3%81%AE%E7%AC%AC%E4%B8%80%E6%AD%A9_20220318.pdf)）
  - H2O AIの紹介。そのミッション、製品コンセプトとAI課題へのアプローチ。代表的な活用イメージ・ユースケース。製品ラインナップの概要。学習カリキュラム・ワークショップの紹介
 #### H2O AI Cloud 紹介（Short Version）（[動画](https://www.youtube.com/watch?v=gmQ_Sjeva_A&t=12s)）
