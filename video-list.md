@@ -22,7 +22,7 @@
  - H2O AI Cloud上にサンプルとして実装されているデモアプリの紹介
   
 ## H2O AI Cloud トレーニング
-#### Getting Started（[資料](https://h2oai-jpn-public.s3.amazonaws.com/docs/Workshop+(AI+Cloud+-+Getting+Started)+v221214.pdf))
+#### Getting Started（[資料](https://h2oai-jpn-public.s3.amazonaws.com/docs/Workshop+(AI+Cloud+-+Getting+Started)+v230405.pdf))
 #### App Tour（[資料](https://h2oai-jpn-public.s3.amazonaws.com/docs/Workshop+(AI+Cloud+-+AppTour)+v221214.pdf))
   
 ## Driverless AI トレーニング
