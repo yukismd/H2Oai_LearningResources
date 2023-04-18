@@ -12,7 +12,7 @@
  - Driverless AIによるモデル作成の一連の操作の流れを説明
   
 ## H2O AI Cloud
-#### H2O AI Cloud 紹介（[動画](https://www.youtube.com/watch?v=4glxugqSgIM&t=1783s)）（[資料](https://h2oai-jpn-public.s3.amazonaws.com/docs/Seminar+(AI+Cloud+2)+v221018.pdf))
+#### H2O AI Cloud 紹介（[動画](https://www.youtube.com/watch?v=4glxugqSgIM&t=1783s)）（[資料](https://h2oai-jpn-public.s3.amazonaws.com/docs/Seminar+(AI+Cloud+2)+v221018.pdf))（[new 資料](https://h2oai-jpn-public.s3.amazonaws.com/docs/Seminar+(AI+Cloud+3)+v230309.pdf)）
  - H2O AI Cloudによる、予測モデルの作成、モデルのデプロイ（MLOps）、AIアプリケーションの利用方法を紹介
 #### H2O Hydrogen Torch - 画像・物体検出 編（[動画](https://www.youtube.com/watch?v=aOHuUtpKPdE)）（[資料](https://h2oai-jpn-public.s3.amazonaws.com/docs/Seminar+(Hydrogen+Torch+-+ObjectDetection)+v221204.pdf))
  - Hydrogen Torch, Label Genieによる物体検出の実施と、画像のアノテーション
