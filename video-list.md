@@ -10,6 +10,8 @@
  - H2O AI Cloudの構成要素。AIアプリの利用と紹介。Driverless AIインスタンスの管理。MLOpsによるモデルのデプロイ（スコアリングAPIポイントの構築）。APIポイントへのサンプルリクエストの実施
 #### Driverless AI 操作の流れ（[動画](https://www.youtube.com/watch?v=08joAmTSlWk&t=556s)）
  - Driverless AIによるモデル作成の一連の操作の流れを説明
+#### H2O.aiと製品紹介 - 製造業向け（[資料](https://h2oai-jpn-public.s3.amazonaws.com/docs/Seminar+(H2O+Intro+-+Manufacturing)+v230423.pdf)）
+ - 製造業向けの会社と製品（主にDriverless AI, Hydrogen Torch）紹介、事例
   
 ## H2O AI Cloud
 #### H2O AI Cloud 紹介（[動画](https://www.youtube.com/watch?v=4glxugqSgIM&t=1783s)）（[資料](https://h2oai-jpn-public.s3.amazonaws.com/docs/Seminar+(AI+Cloud+2)+v221018.pdf))（[new 資料](https://h2oai-jpn-public.s3.amazonaws.com/docs/Seminar+(AI+Cloud+3)+v230309.pdf)）
