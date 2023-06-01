@@ -12,6 +12,8 @@
  - Driverless AIによるモデル作成の一連の操作の流れを説明
 #### H2O.aiと製品紹介 - 製造業向け（[資料](https://h2oai-jpn-public.s3.amazonaws.com/docs/Seminar+(H2O+Intro+-+Manufacturing)+v230423.pdf)）
  - 製造業向けの会社と製品（主にDriverless AI, Hydrogen Torch）紹介、事例
+#### H2O.ai Technologyアップデート & H2O World India Hot Topics（[動画](https://www.youtube.com/watch?v=lRRMjPQnOCo&t=975s)）（[資料](https://h2oai-jpn-public.s3.amazonaws.com/docs/TechnologyUpdate+v230531.pdf)）
+ - Hydrogen Torch & Label Genie 最新版。LLM（大規模言語モデル/Large Language Model）に対する取り組み
   
 ## H2O AI Cloud
 #### H2O AI Cloud 紹介（[動画](https://www.youtube.com/watch?v=4glxugqSgIM&t=1783s)）（[資料](https://h2oai-jpn-public.s3.amazonaws.com/docs/Seminar+(AI+Cloud+2)+v221018.pdf))（[new 資料](https://h2oai-jpn-public.s3.amazonaws.com/docs/Seminar+(AI+Cloud+3)+v230309.pdf)）
