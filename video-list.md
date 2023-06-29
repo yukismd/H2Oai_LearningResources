@@ -28,7 +28,7 @@
 ## H2O AI Cloud トレーニング
 #### Getting Started（[資料](https://h2oai-jpn-public.s3.amazonaws.com/docs/Workshop+(AI+Cloud+-+Getting+Started)+v230522.pdf))
 #### App Tour（[資料](https://h2oai-jpn-public.s3.amazonaws.com/docs/Workshop+(AI+Cloud+-+AppTour)+v221214.pdf))
-#### Hydrogen Torch & Label Genie（[資料](https://h2oai-jpn-public.s3.amazonaws.com/docs/Workshop+(HydrogenTorch%26LabelGenie)+v230528.pdf))
+#### Hydrogen Torch & Label Genie（[資料](https://h2oai-jpn-public.s3.amazonaws.com/docs/Workshop+(AI+Cloud+-+HydrogenTorch%26LabelGenie)+v230622.pdf))
   
 ## Driverless AI トレーニング
 #### Aquarium環境案内（[資料](https://h2oai-jpn-public.s3.amazonaws.com/docs/H2O_DriverlessAI_HandsOn%E7%92%B0%E5%A2%83%E6%A1%88%E5%86%85_v1-10-5.pdf))
