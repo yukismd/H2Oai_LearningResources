@@ -78,7 +78,7 @@
 ## その他
 #### Rulefitモデルに関して（[動画](https://www.youtube.com/watch?v=p4Y1JmwACck）))（[資料](https://h2oai-jpn-public.s3.amazonaws.com/docs/LT+(Rulefit)+v230207.pdf))
  - Rulefitモデルの解説と実施方法（OSS H2O, Driverless AI）
-#### センサーデータを用いた異常検知問題に関して（[資料](https://h2oai-jpn-public.s3.amazonaws.com/docs/Workshop+(Sensor+Anomaly)+20210616.pdf))
+#### センサーデータを用いた異常検知問題に関して（[資料](https://h2oai-jpn-public.s3.amazonaws.com/docs/Workshop+(Sensor+Anomaly)+20230831.pdf))
  - センサーデータを用いた異常検知問題に対するアプローチ（OSS H2O, Driverless AI）
 #### H2O.ai LLM領域でのOSS取り組み（[動画](https://www.youtube.com/watch?v=g0iZoaj_B-E&t=1713s)）（[資料](https://h2oai-jpn-public.s3.amazonaws.com/docs/H2O-OSS-LLM+v230814.pdf))
  - LLM Studioとh2oGPTに関して
