@@ -57,6 +57,8 @@
  - 各種Scorer（モデル予測精度評価指標）の特徴とモデル評価の手法に関して。不均衡なデータを扱う場合の注意点とDriverless AIによる対応に関して
 #### 教師なし学習とその応用（[資料](https://h2oai-jpn-public.s3.amazonaws.com/docs/Workshop+(DAI+-+Unsupervised)+v230615.pdf)）
  - 各種教師なしモデルに関して。応用として、テキストデータのベクトル抽出とクラスタリングの実施
+#### Driverless AI + LLM - Driverless AI 1.10.6 新機能（[資料](https://jp-public.s3.ap-southeast-1.amazonaws.com/documents/LT+(DAI+1-10-6+LLM)+v230915.pdf)）
+ - Driverless AI 1.10.6で実装された、LLMインテグレーション機能に関して
   
 ## Wave トレーニング
 #### チュートリアル（[動画](https://www.youtube.com/watch?v=cuz67LkGeLc&t=685s)）（[資料](https://github.com/yukismd/H2O_Wave_Tutorial)）
