@@ -39,7 +39,7 @@
  - 時系列予測の実施方法
 #### 画像データを用いたモデル作成（[動画](https://www.youtube.com/watch?v=e3CYgcumj_A)）（[資料](https://h2oai-jpn-public.s3.amazonaws.com/docs/Workshop+(DAI+-+Image)+v220403.pdf)）
  - 画像データを利用した、回帰・分類問題
-#### テキストデータを用いたモデル作成（[動画](https://www.youtube.com/watch?v=Ec200akQ8lw)）（[資料](https://h2oai-jpn-public.s3.amazonaws.com/docs/Workshop+(DAI+-+NLP)+v220317.pdf)）（[new 資料](https://h2oai-jpn-public.s3.amazonaws.com/docs/Workshop+(DAI+-+NLP2)+v230227.pdf)）
+#### テキストデータを用いたモデル作成（[動画](https://www.youtube.com/watch?v=Ec200akQ8lw)）（[資料](https://h2oai-jpn-public.s3.amazonaws.com/docs/Workshop+(DAI+-+NLP)+v220317.pdf)）（[new 資料](https://h2oai-jpn-public.s3.amazonaws.com/docs/Workshop+(DAI+-+NLP2)+v231128.pdf)）
  - テキスト(日本語)データを利用した、回帰・分類問題 
 #### モデル予測精度の確認（[動画](https://www.youtube.com/watch?v=IF5d-PFSlIU&t=3s)）（[資料](https://h2oai-jp-public.s3.ap-northeast-1.amazonaws.com/docs/Workshop+(DAI+-+ModelDiagnostic)+v211130.pdf)）
  - 作成した予測モデルの精度を評価する方法。回帰・分類問題における各種指標
