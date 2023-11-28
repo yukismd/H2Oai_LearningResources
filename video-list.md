@@ -45,6 +45,7 @@
  - 作成した予測モデルの精度を評価する方法。回帰・分類問題における各種指標
 #### 機械学習の解釈可能性/Machine Learning Interpretability(MLI)（[動画](https://www.youtube.com/watch?v=s6D3mA8AdX0&t=1s)）（[資料](https://h2oai-jpn-public.s3.amazonaws.com/docs/Workshop+(DAI+-+MLI)+v220104.pdf)）
  - 作成した予測モデルの解釈方法
+ - Shapley計算（[資料](https://jp-public.s3.ap-southeast-1.amazonaws.com/documents/Workshop+(DAI+-+MLI)+Shapley+v231125.zip)）
 #### MLI – Disparate Impact & Sensitivity Analysis（[動画](https://www.youtube.com/watch?v=YtSSCEoTh_s&t=1254s)）（[資料](https://h2oai-jpn-public.s3.amazonaws.com/docs/Workshop+(DAI+-+MLI+DisparateImpact)+v211221.pdf)）
  - 予測モデルのバイアス（公平性）確認。MLIのDisparate Impact AnalysisとSensitivity Analysis機能に関して
 #### モデルのデプロイ（[資料](https://h2oai-jpn-public.s3.amazonaws.com/docs/Workshop+(DAI+-+Deploy)+v221203.pdf)）
