@@ -18,7 +18,7 @@
 ## H2O AI Cloud
 #### H2O AI Cloud 紹介（[動画](https://www.youtube.com/watch?v=4glxugqSgIM&t=1783s)）（[資料](https://h2oai-jpn-public.s3.amazonaws.com/docs/Seminar+(AI+Cloud+2)+v221018.pdf))（[new 資料](https://h2oai-jpn-public.s3.amazonaws.com/docs/Seminar+(AI+Cloud+3)+v230309.pdf)）
  - H2O AI Cloudによる、予測モデルの作成、モデルのデプロイ（MLOps）、AIアプリケーションの利用方法を紹介
-#### H2O Hydrogen Torch - 画像・物体検出 編（[動画](https://www.youtube.com/watch?v=aOHuUtpKPdE)）（[資料](https://jp-public.s3.ap-southeast-1.amazonaws.com/documents/Workshop+(AI+Cloud+-+HydrogenTorch%26LabelGenie)+v231206.pdf))
+#### H2O Hydrogen Torch - 画像・物体検出 編（[動画](https://www.youtube.com/watch?v=aOHuUtpKPdE)）（[資料](https://h2oai-jpn-public.s3.amazonaws.com/docs/Seminar+(Hydrogen+Torch+-+ObjectDetection)+v221204.pdf))
  - Hydrogen Torch, Label Genieによる物体検出の実施と、画像のアノテーション
 #### H2O AI CloudによるAIアプリの運用（[動画](https://www.youtube.com/watch?v=axCgK3Pd7C0&t=2746s)）（[資料](https://h2oai-jpn-public.s3.amazonaws.com/docs/Seminar+(Object+Detection+Scoring+App)+v230316.pdf))
  - 画像データに対する物体検知モデルの作成から、モデルのデプロイ、そしてWebアプリの作成
@@ -28,7 +28,7 @@
 ## H2O AI Cloud トレーニング
 #### Getting Started（[資料](https://h2oai-jpn-public.s3.amazonaws.com/docs/Workshop+(AI+Cloud+-+Getting+Started)+v230522.pdf))
 #### App Tour（[資料](https://h2oai-jpn-public.s3.amazonaws.com/docs/Workshop+(AI+Cloud+-+AppTour)+v221214.pdf))
-#### Hydrogen Torch & Label Genie（[資料](https://h2oai-jpn-public.s3.amazonaws.com/docs/Workshop+(AI+Cloud+-+HydrogenTorch%26LabelGenie)+v230720.pdf))
+#### Hydrogen Torch & Label Genie（[資料](https://jp-public.s3.ap-southeast-1.amazonaws.com/documents/Workshop+(AI+Cloud+-+HydrogenTorch%26LabelGenie)+v231206.pdf))
 #### MLOps（[資料](https://h2oai-jpn-public.s3.amazonaws.com/docs/Workshop+(AI+Cloud+-+MLOps)+v230922.pdf))
   
 ## Driverless AI トレーニング
