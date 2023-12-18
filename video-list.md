@@ -54,7 +54,7 @@
 ## Driverless AI Technical Tips
 #### What's New in Driverless AI 1.10（Driverless AI最新版 新機能紹介）（[動画](https://www.youtube.com/watch?v=O7hXrHWoV_Q&t=2327s)）（[資料](https://h2oai-jpn-public.s3.amazonaws.com/docs/Seminar+(DAI+-+New+in+1.10)+v211206.pdf)）
  - 2021秋にバージョンアップされたDriverless AI 1.10の新機能紹介。機械学習の解釈可能性/Machine Learning Interpretabilityの機能拡張。教師なし学習のサポート。多クラス分類問題における不均衡データへの対応力アップ
-#### 予測精度評価と不均衡データへの対応（[動画](https://www.youtube.com/watch?v=FDvmZjg0elc&t=78s)）（[資料](https://h2oai-jpn-public.s3.amazonaws.com/docs/Seminar+(Scorer+and+Imbalanced+data)+v220512.pdf)）
+#### 予測精度評価と不均衡データへの対応（[動画](https://www.youtube.com/watch?v=FDvmZjg0elc&t=78s)）（[資料](https://jp-public.s3.ap-southeast-1.amazonaws.com/documents/Seminar+(Scorer+and+Imbalanced+data)+v231218.pdf)）
  - 各種Scorer（モデル予測精度評価指標）の特徴とモデル評価の手法に関して。不均衡なデータを扱う場合の注意点とDriverless AIによる対応に関して
 #### 教師なし学習とその応用（[資料](https://h2oai-jpn-public.s3.amazonaws.com/docs/Workshop+(DAI+-+Unsupervised)+v230615.pdf)）
  - 各種教師なしモデルに関して。応用として、テキストデータのベクトル抽出とクラスタリングの実施
